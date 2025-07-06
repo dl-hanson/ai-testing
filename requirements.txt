@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+google-generativeai
+python-dotenv
+langchain
+langchain-google-genai
+langchain-core
+pydantic
